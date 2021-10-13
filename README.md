@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanskar Pawar</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">A Passionate Android App Developer From India</h3>
 
 <p align="center">
   <kbd>
