@@ -14,11 +14,9 @@
 
 - 🌱 I’m currently learning **JavaScript and Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanskarpawar](https://github.com/sanskarpawar)
-
 - 📫 How to reach me **pawarsanskar50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17Q15xCaDQj4YaCGTtEwSYsJJUbW3gGY8/view?usp=sharing](https://drive.google.com/file/d/17Q15xCaDQj4YaCGTtEwSYsJJUbW3gGY8/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1T2YDvU6GzkhZvzzkrVZAsEv3x7rQpnsW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
