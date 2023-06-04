@@ -3,7 +3,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></img>
+<img src="https://github.com/sanskarpawar/sanskarpawar/assets/39761857/520aaa71-524f-4d2c-9ea0-14b005546586"></img>
   </kbd>
 </p>
 
@@ -32,7 +32,7 @@
 
 -- Utilizing Git & GitHub for seamless version control and collaboration 🌐
 
-***Let's connect for Android development opportunities or collaborations! 💼📲
+***Let's connect for Android development opportunities or collaborations! 💼📲***
 
 <p align="left">
 <a href="https://twitter.com/sanskarpawar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanskarpawar2" height="30" width="40" /></a>
