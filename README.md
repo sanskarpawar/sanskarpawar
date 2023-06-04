@@ -12,13 +12,28 @@
 
 <p align="left"> <a href="https://twitter.com/sanskarpawar2" target="blank"><img src="https://img.shields.io/twitter/follow/sanskarpawar2?logo=twitter&style=for-the-badge" alt="sanskarpawar2" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and Kotlin**
+- 🌱 I’m currently learning **Everything**
 
 - 📫 How to reach me **pawarsanskar50@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1T2YDvU6GzkhZvzzkrVZAsEv3x7rQpnsW/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
+
+**📱 Android Developer 🚀**
+
+-- Implementing rich UI with layouts like ConstraintLayout, RelativeLayout, and LinearLayout 🎨
+
+-- Developing UI using XML with components like RecyclerView, ScrollView, ViewPager2, and menus 📋
+
+-- Android app automation using UI Automator, Espresso, and Cucumber, with a focus on BDD 🤖
+
+-- Working with Jetpack components, Retrofit, Coroutines, and Room database for efficient development 💡
+
+-- Building Android applications with MVVM architecture and Dependency Injection using Dagger Hilt 🏗️
+
+-- Utilizing Git & GitHub for seamless version control and collaboration 🌐
+
+***Let's connect for Android development opportunities or collaborations! 💼📲
+
 <p align="left">
 <a href="https://twitter.com/sanskarpawar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanskarpawar2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanskarpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskarpawar" height="30" width="40" /></a>
