@@ -3,7 +3,7 @@
 
 <p align="center">
   <kbd>
-<img src="https://github.com/sanskarpawar/sanskarpawar/assets/39761857/520aaa71-524f-4d2c-9ea0-14b005546586"></img>
+<img src="https://github.com/sanskarpawar/sanskarpawar/assets/39761857/520aaa71-524f-4d2c-9ea0-14b005546586" width ="600" height = "400"></img>
   </kbd>
 </p>
 
